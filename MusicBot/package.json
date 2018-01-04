@@ -1,0 +1,15 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "description": "A Discord Music Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ComedicChimera",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "node-opus": "^0.2.7"
+  }
+}

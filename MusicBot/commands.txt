@@ -1,0 +1,30 @@
+**help** - Sends the user a message containing all the commands and their uses.
+**prefix** - Allows a qualified user to set their server's prefix. (prefix)
+**about** - Sends the user information about *Rezonate*.
+**exec** - Allows users to execute javascript code in a ***__completely blank context__*** and returns the result.
+~
+**play** - Plays a song or adds it to the queue. (song)
+**skip** - Skips a song in the queue.
+**stop** - Stops the audio and causes bot to leave channel.
+**pause** - Pauses the current song.
+**resume** - Resumes the current song.
+**volume** - Allows user to adjust output volume of the bot. (value 1-20)
+**queue** - Prints out the queue including the current song at the top.
+**current** - Prints out the current song.
+**loopqueue** - Tells the bot to loop through your queue.
+**clearqueue** - Empties the current queue except for current song.
+**remove** - Removes a queue item at a specified position. (position)
+**swap** - Swaps two queue items. (position a, position b)
+**move** - Moves a song into the queue a specific position. (start_position, new_position)
+~
+**ban** - Bans the mentioned user(s).
+**unban** - Unbans the mentioned user(s).
+**kick** - Kicks the mentioned user(s).
+**mute** - Mutes the mentioned user(s).
+**unmute** - Unmutes the mentioned user(s).
+**deafen** - Deafens the mentioned user(s).
+**undeafen** - Undeafens the mentioned user(s).
+**softban** - Bans and unbans the mentioned user(s).
+**silence** - Mutes and Deafens the mentioned user(s).
+**unsilence** - Unmutes and undeafens the mentioned user(s).
+**purge** - Deletes a set number of messages (number).

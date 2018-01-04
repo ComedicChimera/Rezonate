@@ -1,0 +1,8 @@
+"kick": (msg, args) => { audio.handleAdminCommand(msg, args, "kick") },
+"ban": (msg, args) => { audio.handleAdminCommand(msg, args, "ban") },
+"unban": (msg, args) => { audio.handleAdminCommand(msg, args, "unban") },
+"softban": (msg, args) => { audio.handleAdminCommand(msg, args, "softban") },
+"mute": (msg, args) => { audio.handleAdminCommand(msg, args, "muteVoice") },
+"block": (msg, args) => { audio.handleAdminCommand(msg, args, "muteChat") },
+"deafen": (msg, args) => { audio.handleAdminCommand(msg, args, "deafen") },
+"silence": (msg, args) => { audio.handleAdminCommand(msg, args, "silence") }
