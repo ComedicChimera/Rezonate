@@ -1,5 +1,8 @@
-# Rezonate
-Rezonate is a powerful music bot for Discord. It was build by a solo dev and will still be receiving improvements.
+# About
+***Rezonate*** is a powerful music bot for Discord. It was built to be simple, and easy to use.  It should also deliver 
+reasonably clear sound.  
+
+It was built by a solo dev whom'st'd've just wanted to listen to music.
 
 # Installation
 *Bot is not live yet :(*
@@ -106,3 +109,7 @@ Arguments are separated a spaces.
  - **purge**
 
    Deletes a set number of messages (number).
+
+# Support
+ - *Donation Link Goes Here*
+ - *Get in touch thru email and stuffs*
