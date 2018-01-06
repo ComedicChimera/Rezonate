@@ -1,8 +1,8 @@
 # Rezonate
-Rezonate is a powerful music bot for Discord. It was build by a solo dev and will stil be receiving improvements.
+Rezonate is a powerful music bot for Discord. It was build by a solo dev and will still be receiving improvements.
 
 # Installation
-<Bot is not live yet>
+*Bot is not live yet :(*
   
 # Commands
 Commands are entered in in the following format:
@@ -13,7 +13,7 @@ Commands are entered in in the following format:
 Arguments are separated a spaces.
 
 ## Index
-**NOTE**: Arguments a specified in parenthesis, separated by commas.
+**NOTE**: Arguments a specified in parentheses, elements separated by commas.
 
 ### General
  - **help**
