@@ -5,7 +5,7 @@ Rezonate is a powerful music bot for Discord. It was build by a solo dev and wil
 <Bot is not live yet>
   
 # Commands
-### Format
+## Format
 Commands are entered in in the following format:
 *Prefix is `!` in this case.*
 ```
@@ -13,10 +13,10 @@ Commands are entered in in the following format:
 ```
 Arguments are separated a spaces.
 
-### Index
+## Index
 **NOTE**: Arguments a specified in parenthesis, separated by commas.
 
-#### General
+### General
  - **help**
  
    Get a full list commands along with your server specific prefix sent to you through a DM.
@@ -32,7 +32,7 @@ Arguments are separated a spaces.
    
    *This command may be removed if it becomes a security issue*.
    
-#### Music
+### Music
  - **play**
  
    Plays a song or adds it to the queue. (song)
@@ -73,7 +73,7 @@ Arguments are separated a spaces.
  
    Moves a song into the queue a specific position. (start_position, new_position)
    
-#### Administative
+### Administative
  - **ban**
  
    Bans the mentioned user(s).
