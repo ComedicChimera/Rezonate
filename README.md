@@ -5,7 +5,6 @@ Rezonate is a powerful music bot for Discord. It was build by a solo dev and wil
 <Bot is not live yet>
   
 # Commands
-## Format
 Commands are entered in in the following format:
 *Prefix is `!` in this case.*
 ```
