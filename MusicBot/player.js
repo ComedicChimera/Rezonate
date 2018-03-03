@@ -24,7 +24,7 @@ class Song {
   }
 
   GetData(request, msg) {
-    youtube_search(request, {maxResults: 1, key: "AIzaSyBv8yCwStgJQjjaHTDwTuVc7qt-ZQLBUec"}, (err, results) => {
+    youtube_search(request, {maxResults: 1, key: "--"}, (err, results) => {
       if (err) throw err;
       this.name = results[0].title;
       this.link = results[0].link;
